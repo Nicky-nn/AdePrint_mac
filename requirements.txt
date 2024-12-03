@@ -1,0 +1,6 @@
+rumps
+tk
+flask
+flask-cors
+requests
+pycups
